@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Sora", sans-serif;
+}
+
+.container{
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+@font-face {
+    font-family: "Sora";
+    src: url('./fonts/Sora-Regular.ttf');
+}
+
+@font-face {
+    font-family: "Sora-ExtraBold";
+    src: url('./fonts/Sora-ExtraBold.ttf');
+    font-weight: 700;
+}

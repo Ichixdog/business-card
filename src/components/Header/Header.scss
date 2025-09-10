@@ -1,0 +1,53 @@
+header{
+    padding: 32px 0;
+
+    .container{
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+
+        .logo{
+            font-size: 36px;
+            cursor: pointer;
+            
+            &:hover{
+                
+                transform: rotate(360deg);
+                transition: 0.5s;
+                
+            }
+        }
+
+        .menu{
+            .menu-list{
+                display: flex;
+                list-style: none;
+                gap: 42px;
+                font-size: 20px;
+
+                .menu-item{
+                    cursor: pointer;
+                    border-bottom: 2px solid transparent;
+
+                    &:hover{
+                        border-bottom: 2px solid black;
+                    }
+                }
+            }
+        }
+
+        .resume{
+            font-size: 20px;
+            width: 153px;
+            height: 56px;
+            background-color: black;
+            color: white;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 10px;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+    }
+}
