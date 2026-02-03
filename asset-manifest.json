@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/business-card/static/css/main.44601d9c.css",
-    "main.js": "/business-card/static/js/main.fb18d3df.js",
+    "main.css": "/business-card/static/css/main.a235c886.css",
+    "main.js": "/business-card/static/js/main.5c16a663.js",
     "static/js/453.20fbfd0f.chunk.js": "/business-card/static/js/453.20fbfd0f.chunk.js",
     "static/media/Sora-ExtraBold.ttf": "/business-card/static/media/Sora-ExtraBold.3dbd31f02e9e73810dad.ttf",
     "static/media/Sora-Regular.ttf": "/business-card/static/media/Sora-Regular.5b63a0c0f59e15851422.ttf",
     "static/media/main.png": "/business-card/static/media/main.1e3029bd5dac16ab3eba.png",
     "index.html": "/business-card/index.html",
-    "main.44601d9c.css.map": "/business-card/static/css/main.44601d9c.css.map",
-    "main.fb18d3df.js.map": "/business-card/static/js/main.fb18d3df.js.map",
+    "main.a235c886.css.map": "/business-card/static/css/main.a235c886.css.map",
+    "main.5c16a663.js.map": "/business-card/static/js/main.5c16a663.js.map",
     "453.20fbfd0f.chunk.js.map": "/business-card/static/js/453.20fbfd0f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.44601d9c.css",
-    "static/js/main.fb18d3df.js"
+    "static/css/main.a235c886.css",
+    "static/js/main.5c16a663.js"
   ]
 }
