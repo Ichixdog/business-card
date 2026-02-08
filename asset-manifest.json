@@ -1,20 +1,26 @@
 {
   "files": {
-    "main.css": "/business-card/static/css/main.2990c656.css",
-    "main.js": "/business-card/static/js/main.c107a12f.js",
-    "static/js/453.20fbfd0f.chunk.js": "/business-card/static/js/453.20fbfd0f.chunk.js",
+    "main.css": "/business-card/static/css/main.cf6046f0.css",
+    "main.js": "/business-card/static/js/main.7eed460b.js",
+    "static/js/453.e57fbe57.chunk.js": "/business-card/static/js/453.e57fbe57.chunk.js",
     "static/media/main-mob.png": "/business-card/static/media/main-mob.32e30fe873c69d2c76e8.png",
     "static/media/Sora-ExtraBold.ttf": "/business-card/static/media/Sora-ExtraBold.3dbd31f02e9e73810dad.ttf",
     "static/media/Sora-Regular.ttf": "/business-card/static/media/Sora-Regular.5b63a0c0f59e15851422.ttf",
     "static/media/main.png": "/business-card/static/media/main.1e3029bd5dac16ab3eba.png",
+    "static/media/icon-react.png": "/business-card/static/media/icon-react.62c437317c893d3d3724.png",
     "static/media/about.png": "/business-card/static/media/about.895f5d95a73e25c8a070.png",
+    "static/media/icon-sass.png": "/business-card/static/media/icon-sass.5504563fb9d173ddadbd.png",
+    "static/media/icon-angular.png": "/business-card/static/media/icon-angular.fe2c5bb5e571ecb5b450.png",
+    "static/media/icon-git.png": "/business-card/static/media/icon-git.fc3a99828dbd920bae31.png",
+    "static/media/icon-ts.png": "/business-card/static/media/icon-ts.a5de1693d7a2b6208456.png",
+    "static/media/icon-javascript.png": "/business-card/static/media/icon-javascript.22794f7dadb03c2187b1.png",
     "index.html": "/business-card/index.html",
-    "main.2990c656.css.map": "/business-card/static/css/main.2990c656.css.map",
-    "main.c107a12f.js.map": "/business-card/static/js/main.c107a12f.js.map",
-    "453.20fbfd0f.chunk.js.map": "/business-card/static/js/453.20fbfd0f.chunk.js.map"
+    "main.cf6046f0.css.map": "/business-card/static/css/main.cf6046f0.css.map",
+    "main.7eed460b.js.map": "/business-card/static/js/main.7eed460b.js.map",
+    "453.e57fbe57.chunk.js.map": "/business-card/static/js/453.e57fbe57.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2990c656.css",
-    "static/js/main.c107a12f.js"
+    "static/css/main.cf6046f0.css",
+    "static/js/main.7eed460b.js"
   ]
 }
